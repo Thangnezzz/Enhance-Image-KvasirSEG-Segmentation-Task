@@ -1,1 +1,5 @@
-# Enhance-Image-KvasirSEG-Segmentation-Task
+# Enhance Image KvasirSEG Segmentation Task
+In machine learning, **segmentation** refers to the process of dividing an image into multiple segments or regions, each of which corresponds to a specific object or part of the object. The goal of segmentation is to simplify or change the representation of an image to make it more meaningful and easier to analyze.
+
+Colorectal cancer (CRC) is the world’s third-most common cancer, causing thousands of deaths every year. In 2022, more than 1.9 million cases were diagnosed. CRC is the second most common cause of cancer death, accounting for over 900,000 deaths per year (9.3% of total cancer deaths). The majority of polyps found in human body are located in nose, colon, uterus, and stomach. Researchers believe that polyps are mostly harmless. However, many studies have found that certain types of polyps can be dangerous and lead to cancer. Colonoscopy is the primary method for screening and preventing polyps from developing into colorectal cancer. However, detecting polyps through colonoscopy requires highly skilled endoscopists and high level of eye-hand coordination. Recent studies have shown that 25% of polyps were missed during colonoscopy. Segmenting polyps is a crucial task in the early diagnosis of colon polyps for preventing colorectal cancer
+
